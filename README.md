@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Projects
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me 
+- 📫 How to reach me apurbajana403@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
